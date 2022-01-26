@@ -1,0 +1,9 @@
+*.properties
+.vs/
+AndroidManifest.xml
+/code/
+/data/comics.ttf
+/data/doge.mtl
+/data/doge.obj
+/data/doge2_Capa_1.png
+/data/doge2_Capa_1_nrm.png
